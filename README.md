@@ -21,6 +21,4 @@
 
 ## Contatos
 
-### [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonramos.silva19@gmail.com?subject=Questions)ramonramos.silva19@gmail.com<br/>
-
 ### ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(71) 99756279
