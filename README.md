@@ -1,7 +1,7 @@
 
-# Ramon Ramos 😀
+# Ramon Ramos 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/ramon-silva-5b9b78245](https://www.linkedin.com/in/rhamudi/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhamudi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramonn_rr/)
 
 ![RHamudi GitHub stats](https://github-readme-stats.vercel.app/api?username=RHamudi&show_icons=true&theme=dark)
