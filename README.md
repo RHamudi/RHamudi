@@ -6,10 +6,10 @@ Desenvolvedor Full Stack, Atualmente focado no Back End com .NET mas tenho uma b
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhamudi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramonn_rr/)
 
-![RHamudi GitHub stats](https://github-readme-stats.vercel.app/api?username=RHamudi&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHamudi&layout=demo)](https://github.com/RHamudi/github-readme-stats)
-
 ## Contatos
+<div align="center">
 
-### ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(71) 99756279
+<a href="https://www.linkedin.com/in/rhamudi/"><img src="https://img.shields.io/badge/-rhamudi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhamudi/" alt="Linkedin"/></a>
+<a href="mailto:ramonramos.silva19@gmail.com"><img src="https://img.shields.io/badge/-ramonramos.silva19@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ramonramos.silva19@gmail.com" alt="Gmail"/></a>
+<a href="discord://"><img src="https://img.shields.io/badge/-hamudi5527-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord://" alt="Discord"/></a>
+</div>
