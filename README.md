@@ -3,10 +3,6 @@
 
 Desenvolvedor Full Stack, Atualmente focado no Back End com .NET mas tenho uma boa vivencia com o front end com ReacJS.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhamudi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramonn_rr/)
-
-## Contatos
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rhamudi/"><img src="https://img.shields.io/badge/-rhamudi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhamudi/" alt="Linkedin"/></a>
